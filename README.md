@@ -7,7 +7,7 @@
 ## Setup
 
 - Virtual environment: python -m venv .venv
-venv\Scripts\activate
+- venv\Scripts\activate
 - Installing packages: pip install fastapi uvicorn openai python-dotenv
 - API key: Add your API key in a separate .env file. This will be called automatically in the models.py file with load_dotenv() fucntion
 - Run: Run with python main.py in the terminal
