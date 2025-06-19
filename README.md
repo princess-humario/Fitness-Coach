@@ -44,12 +44,12 @@ curl -X POST "http://localhost:8000/advise" \
 ## Prompt engineering comparison
 
 ### Tone changes
-Before: Casual, generic responses
-After: Professional, expert-level advice with confident delivery
+-Before: Casual, generic responses
+-After: Professional, expert-level advice with confident delivery
 
 ### Safety changes
-Before: No safety check before
-After: Does not give harmful advice
+-Before: No safety check before
+-After: Does not give harmful advice
 
 
 
